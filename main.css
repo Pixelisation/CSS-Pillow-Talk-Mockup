@@ -3,12 +3,8 @@
 
 /*Build Helpers*/
 
-*{
-    border: 1px solid mediumvioletred;
-}
-
 img{
-    width: 100px;
+    width: 500px;
 }
 
 body{
@@ -69,11 +65,9 @@ aside{
     justify-content: flex-start;
     align-items: center;
 }
-
 ul{
     padding: 0;
 }
-
 li{
     list-style: none;
     text-align: left;
